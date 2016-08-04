@@ -4,16 +4,16 @@
 var config = {
 
   // Your site title (format: page_title - site_title)
-  site_title: 'Envisioning KB',
+  site_title: ' Astound Commerce UK -Demco Project Documentation ',
 
   // The base URL of your site (can use %base_url% in Markdown files)
   base_url: '',
 
   // Used for the "Get in touch" page footer link
-  support_email: 'hello@envisioning.io',
+  support_email: 'vaughanwatson.biz@gmail.com',
 
   // Footer Text / Copyright
-  copyright: 'Copyright &copy; '+ new Date().getFullYear() +' - <a href="http://envisioning.io">Envisioning</a>',
+  copyright: 'Copyright &copy; '+ new Date().getFullYear() +' - <a href="http://astoundcommerce.co.uk">Astound Commerce UK</a>',
 
   // Excerpt length (used in search)
   excerpt_length: 400,
